@@ -40,7 +40,16 @@ Pirate software game jam No. 15 project
 
 ### Genre
 
-### Survival/Horror
+Sandbox
+Real-time strategy (RTS)
+Shooters (FPS and TPS) First and third person
+Multiplayer online battle arena (MOBA)
+Role-playing (RPG, ARPG, and More)
+Simulation and sports
+Puzzlers and party games
+Action-adventure
+Survival and horror
+Platformer
 
 ### Target Audience
 
@@ -199,82 +208,183 @@ Hide the GDD ingame and only give access after they win (to avoid spolers?) - Th
 ## Section III – Story, Setting and Character  
 
 
-Story and Narrative
+### Story and Narrative
+
+
 Specific details like scripts and cut scenes may not be in this document but be in the Story Bible.  
-Back story
-Plot Elements
-Game Progression
-License Considerations
-Cut Scenes
-Cut scene #1
-Actors
-Description
-Storyboard
+
+
+### Back story
+
+
+### Plot Elements
+
+
+
+### Game Progression
+
+
+
+### License Considerations
+
+
+### Cut Scenes
+
+
+### Cut scene #1
+
+
+### Actors
+
+
+### Description
+
+
+### Storyboard
+
 Script
-Cut scene #2
+
+
+### Cut scene #2
+
 etc.
-Game World
+
+
+### Game World
+
 General look and feel of world
-Area #1
+
+#### Area #1
+
 General Description
+
 Physical Characteristics
+
 Levels that use area
+
 Connections to other areas
-Area #2
-Characters
-Character #1
-Back story
-Personality
-Look
-Physical characteristics
-Animations
-Special Abilities
-Relevance to game story
-Relationship to other characters
-Statistics
-Character #2
+
+#### Area #2
+
+TODO
+
+### Characters
+
+
+#### Character #1
+
+##### Back story
+
+##### Personality
+
+##### Look
+
+##### Physical characteristics
+
+##### Animations
+
+##### Special Abilities
+
+##### Relevance to game story
+
+##### Relationship to other characters
+
+##### Statistics
+
+
+#### Character #2
 
 
 ## Section IV – Levels
 
-Level #1
-Synopsis
+### Level #1
+
+#### Synopsis
+
 Introductory Material
+
 (Cut scene?  Mission briefing?)
-Objectives
-Physical Description
-Map
-Critical Path
-Encounters
-Level Walkthrough
-Closing Material
-Level #2
-Training Level
-Section V - Interface
-Visual System
-HUD - What controls 
-Menus
-Rendering System
-Camera
-Lighting Models
-Control System
+
+
+#### Objectives
+
+#### Physical Description
+
+
+
+#### Map
+
+
+
+#### Critical Path
+
+
+#### Encounters
+
+
+
+#### Level Walkthrough
+
+
+#### Closing Material
+
+
+
+### Level #2
+
+TODO
+
+
+
+### Training Level
+
+## Section V - Interface
+
+### Visual System
+
+### HUD - What controls 
+
+### Menus
+
+### Rendering System
+
+### Camera
+
+### Lighting Models
+
+### Control System
+
 How does the game player control the game?   What are the specific commands?
-Audio
-Music
-Sound Effects
-Help System
+
+### Audio
+
+### Music
+
+
+### Sound Effects
+
+
+### Help System
 
 
 ## Section VI - Artificial Intelligence
 
-Opponent AI
+### Opponent AI
+
 The active opponent that plays against the game player and therefore requires strategic decision making (example, Civilization or Chess, how is it to be designed?
-Enemy AI
+
+### Enemy AI
+
 Villains and Monsters
+
 Non-combat Characters
+
 Friendly Characters
-Support AI
+
+### Support AI
+
 Player and Collision Detection
+
 Pathfinding
 
 
@@ -285,7 +395,9 @@ This may be abbreviated with most in the Technical Bible.
 ### Target Hardware
 
 Browser game.
+
 Try to avoid cutting edge code, keep size down as much as possible.
+
 Keyboard/mouse/touch (iphone/ipad/android?)
 
 ### Development hardware and software
@@ -294,7 +406,9 @@ Keyboard/mouse/touch (iphone/ipad/android?)
 
 #### Requirements from itch.io
 
-##### The cover image is used whenever itch.io wants to link to your project from another part of the site. Required (Minimum: 315x250, Recommended: 630x500)
+The cover image is used whenever itch.io wants to link to your project from another part of the site.
+
+Required (Minimum: 315x250, Recommended: 630x500)
 
 
 ##### Short description or tagline - Shown when we link to your project. Avoid duplicating your project's title
@@ -436,17 +550,47 @@ Play it!
 
 
 ### Effects List
-Interface Art List 
-Cut scene List
-Sound
-Environmental Sounds
-Weapon Sounds
-Interface Sounds
-Music
-Ambient
+
+
+### Interface Art List 
+
+
+### Cut scene List
+
+
+### Sound
+
+
+### Environmental Sounds
+
+
+### Weapon Sounds
+
+
+### Interface Sounds
+
+
+### Music
+
+
+### Ambient
+
+
 “Action”
-Victory
-Defeat
-Voice
-Actor #1 lines
-Actor #2 lines
+
+
+### Victory
+
+
+### Defeat
+
+
+### Voice
+
+
+#### Actor #1 lines
+
+
+#### Actor #2 lines
+
+
