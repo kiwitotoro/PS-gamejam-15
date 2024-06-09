@@ -1,6 +1,3 @@
-# PS-gamejam-15
-Pirate software game jam No. 15 project
-
 
 # Game Name (TBD)
 
@@ -35,6 +32,9 @@ This is a change listing quickly describing each major version and changes.
 ## Section I - Game Overview
 
 ### Game Concept
+
+Pirate software game jam No. 15 project
+
 
 ### Feature Set
 
