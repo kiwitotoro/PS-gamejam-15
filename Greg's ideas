@@ -1,0 +1,76 @@
+## Into the shadows 
+
+## Section I - Game Overview
+
+We are king's faitfull alchemists, and we are sent with group of military men to venture into shadow dominated lands to find a source of a scurge. \
+
+
+### Genre
+autobattler + deck builder (kind of)
+
+### Target audience
+teen / adult
+
+###Game Flow Summary
+1) Player is introduced with random team he will venture with
+teammates like: 
+> tank: high hp, low dmg per hit, fast attack rate
+> archer: low hp, hight dmg per hit, slow attack rate
+> rogue: low hp, high dmg per hit, fast attack rate
+max 4?
+if they die, player can either revive or pick new along the route
+
+2) player will get 10 random potions to start with
+and can chose 5 more. 
+potions like
+> double attack per round
+> less damage taken 
+> fire damage to attack 
+> frost damagew to attack etc. 
+> healing potion
+> revive potion
+> debuffs for other? 
+
+3) player with group venture into unknown
+map looks like: 
+x: random encounter
+X: boss
+-: route
+----x----x----x---X---x---x--X
+where only next encounter is visible, all else is in the shadows. 
+maybe some potions can reveal more from the shadows? 
+maybe some potions can show what encounter will be next? 
+
+4) encounter:
+fights are done by autobattler
+turn based, between each turns player (alchemist) can apply buffs / debuffs / heals / revives etc. > use potions 
+
+5) After each encounter player will gather alchemical supplies > mechanically can chose new potions to his repertuar. 
+
+###Scope
+
+3 teammates
+10 potions
+5 random enemies
+3 bosses 
+total of lets say 10 encounters with 3 boss fights
+main menu
+teammate menu
+potions menu
+map
+encounter map 
+
+game should be 30min / 1hour long
+
+###Gameplay 
+game flow
+
+preparation phase before venturing into the map
+
+map - path choice? only some visibility through shadow
+
+encounter
+
+
+###Game progression 
+picking stronger potions along the way 
