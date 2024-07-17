@@ -11,7 +11,7 @@ autobattler + deck builder (kind of)
 ### Target audience
 teen / adult
 
-###Game Flow Summary
+### Game Flow Summary
 1) Player is introduced with random team he will venture with
 teammates like: 
 > tank: high hp, low dmg per hit, fast attack rate
@@ -47,7 +47,7 @@ turn based, between each turns player (alchemist) can apply buffs / debuffs / he
 
 5) After each encounter player will gather alchemical supplies > mechanically can chose new potions to his repertuar. 
 
-###Scope
+### Scope
 
 3 teammates
 10 potions
@@ -62,7 +62,7 @@ encounter map
 
 game should be 30min / 1hour long
 
-###Gameplay 
+### Gameplay 
 game flow
 
 preparation phase before venturing into the map
@@ -72,5 +72,5 @@ map - path choice? only some visibility through shadow
 encounter
 
 
-###Game progression 
+### Game progression 
 picking stronger potions along the way 
