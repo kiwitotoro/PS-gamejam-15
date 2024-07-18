@@ -1,0 +1,67 @@
+(im stealing the format for this from Igthife, hope you dont mind)
+Shadows and Alchemy Idea 1
+My idea mainly stems off of Kiwi's idea of trying to sneak bread past Thor to feed it to the mods, then adds on to it and also adds the shadow and alchemy themes.
+
+Genre
+Im not sure what genre this fits into, maybe like a farming/ puzzle/ alchemy/ survival game? I dont know.
+
+Game Flow Summary
+So the player (a goblin, hehe) will start off in a level with a huge feild with a little bit of wheat in it, each ingredient takes up 2-3 rows and regrows, and there's four paths 
+the player can go through with signs for each one except the last, one leads to Thor and the mods and every time the player feeds the mods they get coins depending 
+on the type of bread, one path goes to a bakery where they make the bread, and further down that path is a house they can eventually buy to skip nights and during 
+nights is decreased visibility (maybe add a danger, like wolves or something, so also add weapons) (also when the player picks ingredients in the feild it will grow back the next day, 
+so skipping nights also gets faster crop growth), one goes to a market where they can buy new ingredients to make different breads but each new ingredient gets more
+expensive than the last, they can also buy weapons to use against the wolves, the last is blocked off until they unlock a certain recipe,then when they go down that path they meet a secret society of bread lovers, if you
+give them bread they will summon a secret ingredient and recipe that can't be unlocked otherwise, it also pays quite a bit when feeding it to the mods. Eventually there
+should be an endgame, but I haven't figered that out yet.
+
+Project Scope
+I guess the goal would be to build the maps and get most of the funtionality for each path working.
+
+Section II - Gameplay and Mechanics
+Shadows
+The secret society of bread would fill in for the shadow theme.
+
+Alchemy
+The alchemy would be figuring out new recipes by having the player put different ingredients together to make new types of bread.
+
+Puzzle Structure
+The puzzles would be figuering out how to get the bread around Thor.
+
+Objectives
+Feeding mods, finding new recipes, helping the secret society of bread, surviving the night (need a penalty for dying).
+
+Movement
+walking and moving bread in the Thor/mods screen, using keyboard keys or controller controls.
+
+Objects
+weapons, seeds to plant ingredients, full grown plants, bread.
+
+Reading
+Don't know if these count but conversations with npcs, the ingredients for breads
+
+Combat
+During the night, the player has to fight off wolves to survive/ keep them away from plants. After buying the house, it goes by 
+minecraft logic of if you sleep, monsters don't spawn.
+
+Screen Flow
+if this is like how the levels fit together, i can draw a map and post it in the discord, just let me know if you want me to and i can work on it.
+
+Screen Descriptions
+(Im also going to copy some of this from Igthife, hope you still dont mind)
+Main menu screen: to select play/ options/ credits maybe
+
+Options screen for audio levels, light levels ect.
+
+level screen for each level (part of the map).
+
+Game Options
+Along with audio level and brightness, could have an option for controller/ keyboard, and maybe to save the game.
+
+Replaying and Saving
+Not sure how to work this out yet, maybe save system in options.
+
+Also i wouldn't mind doing the movements like walking and stuff, or drawing out the physics layers on tile sets (I like to get very detailed on those), also drawing out the level on a tile map.
+I didnt get the chance to try a make a title screen, but i feel like it would be pretty simple and i could give it a shot. in my tutorial game im working on 
+i also did a made in Godot over a black screen fade in, then fade out, then the black screen faded into the title screen. i could try the same with this game, and do like
+"A [our team name] production" or something like that aswell. I hope those count as the boring things, cause i wouldnt mind doing them, if they arent, then what are? I'll see if i can do those.
