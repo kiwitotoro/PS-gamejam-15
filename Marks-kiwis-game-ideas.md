@@ -29,3 +29,22 @@ the medieval forerunner of chemistry, concerned with the transmutation of matter
 
 note: key goal was gold...
 
+### ideas:
+
+have a crafting michanic. split gold into 10 units each of mana, health and skills
+22 units of each turn into the same gold. you get more points for more gold, but you need to use gold to win.
+
+enemies are alcanists and turning inocent forest animals into gold... you need to stop them?
+
+use items to make better items. they blow up if you fail, the process is a time sensitive puzzle?
+
+### mix the Ideas:
+
+ninjas vs alcamists!
+
+do alcamy on shadows? different chemicals make them react differently. make your shadow into a weapon to cut the enemy, make it a light to illimanate other shadows... turn to gold (bad? locks player in place?) make the shadow butter slide around the level...
+
+
+
+
+
