@@ -1,5 +1,5 @@
 
-# Game Name (TBD)
+# Attacking underwear
 
 ## Game Design Document
 
@@ -24,9 +24,8 @@ Other person
 
 
 ## Design History 
-This is a change listing quickly describing each major version and changes.
 
-(Probably not needed untill after the jam starts)?
+Current version: 0.0.1
 
 
 ## Section I - Game Overview
